@@ -1,0 +1,23 @@
+.dot {
+    stroke: #3f5175;
+    stroke-width: 5px;
+}
+
+.y-grid {
+    stroke-dasharray: 3;
+}
+
+.line {
+    fill: none;
+    stroke: #7dc7f4;
+    stroke-width: 5px;
+}
+
+/* Modifiers */
+
+.margin-bottom {
+    margin-bottom: 10px;
+}
+
+
+/*# sourceMappingURL=main.css.map*/
